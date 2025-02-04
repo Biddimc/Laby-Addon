@@ -1,0 +1,6 @@
+{
+    "highlightWords": {
+    "Legendär": "textures/gui/highlight_1.png",
+    "Episch": "textures/gui/epic.png"
+    }
+}
