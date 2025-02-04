@@ -23,9 +23,9 @@ labyMod {
     }
 
     addonInfo {
-        namespace = "example"
-        displayName = "ExampleAddon"
-        author = "Example Author"
+        namespace = "Test1"
+        displayName = "custom_background"
+        author = "Biddimc"
         description = "Example Description"
         minecraftVersion = "*"
         version = rootProject.version.toString()
