@@ -3,17 +3,17 @@ loaderVersion="[47,)"
 license="Academic Free License v3.0"
 
 [[mods]]
-modId="arcanstructure"
-version="1.0.0"
-displayName="ArcanStructure"
-displayURL="https://mcreator.net"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="biddi, MCreator"
+modId="custom_back"
+version="dev1"
+displayName="Custom_Background"
+displayURL=""
+credits=""
+authors="Biddimc"
 
-[[dependencies.arcanstructure]]
+[[custom_back]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.20.1]"
+    versionRange="[1.8.9]"
     ordering="NONE"
     side="BOTH"
 
